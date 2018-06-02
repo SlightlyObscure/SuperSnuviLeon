@@ -1,0 +1,7 @@
+﻿Gemacht: Verbesserung bereits existierender Grafiken, Grafiken für London Tileset, Animation der ersten Entity
+
+Probleme: Zeitmangel
+
+Nächste Schritte: Soundeffekte suchen und anpassen; Weitere Entity Animationen; 
+
+Erreichung der Projektziele: Möglicherweise wird die Erweiterung des Soundtracks gekürzt werden müssen, um die Qualität der visuellen Aspekte und des Leveldesigns sicherzustellen.

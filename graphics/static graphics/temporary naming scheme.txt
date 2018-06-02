@@ -1,0 +1,28 @@
+1 at position = has neighbor
+0 at position = has no neighbor
+
+1st position = left
+2nd position = top
+3rd position = right
+4th position = bottom
+
+
+
+
+Name - Positions
+1 - 1111
+2 - 1101
+3 - 0111
+4 - 1011
+5 - 1110
+6 - 0101
+7 - 1010
+8 - 0011
+9 - 1001
+10 - 0001
+11 - 1100
+12 - 0110
+13 - 0100
+14 - 0000
+15 - 1000
+16 - 0010

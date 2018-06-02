@@ -1,0 +1,28 @@
+Sound
+  *Soundtrack
+	Erweiterung des Soundtracks von letzten Semester mit weiteren akkustisch
+	klingenden Songs. Die Stücke sollen an die Atmosphere des Levels angepasst
+	sein. [15h]
+  *Sonstiges
+	Aufgrund der neuen Entities und Game-mechanics muss die Soundeffektsammlung 
+	durch neue Effekte erweitert werden, die auch wieder aus dem Internet geholt 
+	werden. [3]
+
+Grafik
+  *Statische Objekte
+	Einige neue interaktive Blöcke sowie neue Tilesets für Levels, die eine andere
+	Atmosphere haben sollen. [20]
+  *Character Animation
+	Verbesserung der Bewegungsanimation sowie Animation für das Kampfsystem. [5]
+  *Entity Animationen
+	Animationen für diverse Entitäten mit verschiedenen Zuständen wie Idle, Verfolgung
+	und Combat. [20]
+ 
+Game Design
+  *Brainstorming 
+	Ausarbeitung von Ideen und Game Mechanics. Besprechungen mit dem Team. [5]
+  *Level Design
+	Verwendung der Tilesets und Musik, um leicht unterschiedliche Atmosphere zu
+	erschaffen. Richtiges setzen von interaktiven Blöcken und Entities und Schaffbarkeit
+	des Levels stehen im Vordergrund. [10]
+	

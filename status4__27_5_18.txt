@@ -1,0 +1,8 @@
+﻿Gemacht: entity animationen fertiggestellt; game mechanics mit kajetan getweakt; soundeffekte herrausgesucht und überarbeitet
+
+Probleme: Zeitmangel
+
+Nächste Schritte: Level Design 
+
+Erreichung der Projektziele: 	Die noch nicht fertiggestellten Pakete wurden mit Ausnahme des Level Designs und eventuellem 
+				Änderungsbedarf in letzter Minute vollständig gekürzt.

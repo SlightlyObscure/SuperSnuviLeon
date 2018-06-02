@@ -1,0 +1,7 @@
+﻿Gemacht: Songs vom ersten Semester überarbeitet; Versucht den Level Editor zum Laufen zu bringen
+
+Probleme: Zeitmangel; Level Editor funktioniert nicht
+
+Nächste Schritte: Ende des Projekts 
+
+Erreichung der Projektziele: 	Es konnten keine neuen Levels erstellt werden, da der Level Editor nicht funktioniert. Somit wurde dieser Bereich gestrichen.

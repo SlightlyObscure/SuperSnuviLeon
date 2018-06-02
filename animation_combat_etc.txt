@@ -1,0 +1,37 @@
+Unfinished frames character animation:
+	Death - ~5 frames [DONE]
+	Idle - lots (low effort) [DONE]
+	Dash - 1 frame [DONE]
+	Dodge - 1-2 frames [DONE]
+	Block - ~3 frames [DONE]
+	Stance switch - ~3 frames [DONE]
+	Combat leg movement - ~6 frames [DONE]
+	Combat head - lots (low effort) [DONE]
+	(Combat idle body - 9 frames (low effort) ???)
+	Combat attack - 3-4 per unique attack animation (probably 9-12 total) [DONE]
+	Getting hit - 2-3 frames [DONE]
+	(Getting stunned 1-3 frames ???)
+
+
+
+Combat moves:
+	Switch to combat stance - change from char looking in walking direction to char facing same direction char was in 
+				  when switching to combat stance and can switch facing direction with button press
+	Switch facing direction - only in combat stance
+	Dash 			- move forward a few steps very quickly, but using a lot of stamina in the process; allows char to move through
+				  hostile entities, but doesn't generate invincibility frames (meaning char can still be hit in the process)
+	Dodge			- Quickly move back a step, using a bit of stamina; doesn't create invincibility frames
+	Block			- Makes char immoble for a few frames and has short cooldown (can't be spammed for invincibility), but generates
+				  invincibility frames and hostile entities attacking the char while blocking are thrown back and stunned
+	Attack			- Very slight cooldown, uses a bit of stamina; unless blocked or parried this damages hostile entities
+	
+
+
+Other combat mechanics:
+	*Slower walkspeed
+	*Jumpheight reduced
+	*(Potentially) with the exception of special attack, if an entity and the player hit each other with an attack at the same time, both
+	 are thrown back a bit and stunned for a second or two
+	*Entities have attack patterns, which also have cooldowns, so that the player has to act before the entity is able to attack again
+		
+

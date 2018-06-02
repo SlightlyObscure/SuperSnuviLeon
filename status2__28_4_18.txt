@@ -1,0 +1,7 @@
+Gemacht: Einige Grafiken aus dem letzten Semester überarbeitet; Brainstorming für die Combat-Animation und das Combat-System; Vollständige Character-Animation
+
+Probleme: Character-Animation war aufwändiger als gedacht
+
+Nächste Schritte: Animation einer Nichtspieler-Entity; Grafiken für das zweite Tileset; Einige sonstige Sounds passend zur erweiterten Chracter-Animation; Soundtrack erweitern
+
+Erreichung der Projektziele: Die Character-Animation ist später fertig geworden, als erwartet, aber da die anderen Blöcke sehr flexibel sind gibt es keine konkreten Planänderungen

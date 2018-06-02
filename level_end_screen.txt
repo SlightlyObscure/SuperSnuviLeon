@@ -1,0 +1,15 @@
+Soll in der mitte vom bildschirm erscheinen, wenn man das level schafft oder wenn man zu oft gestorben ist.
+
+Seitlich ca. je 25% von der fensterbreite vom fensterrand entfernt und oben und unten je ca. 5%. 
+
+Der nicht verdeckte teil des Fensters soll weiterhin das level zeigen, solange bis man mit irgendeinem button press wieder zum Hauptmenü kommt.
+
+Wenn man zu oft gestorben ist sollen die Seelen und Zeit nicht gespeichert werden, wenn man das Level geschafft hat schon.
+
+
+Auf dem Level End Screen soll stehen:
+*Entweder The Search Continues oder Consumed By Nightmares
+	und darunter entweder Level Completed oder Game Over in kleinerem Text
+*Übergebliebene Leben (0 wenn zu oft gestorben)
+*Gesamtzeit (auch wenn zu oft gestorben)
+*Gesammelte Seelen/Gesamte Seelen (auch wenn zu oft gestorben)
